@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidedonghi69
 - 👀 I’m interested in disruptive technologies (AI, blockchain, DeFi) and cybersecrurity
 - 🌱 I’m currently learning AI technologies and process
-- 💞️ I’m looking to collaborate on projects regarding AI applied to Recruitment and Talent Acquisition
+- 💞️ I’m looking to collaborate on projects regarding AI applied to Recruitment and Talent Acquisition https://www.friends2hire.com/
 - 📫 How to reach me https://www.linkedin.com/in/davide-donghi-75088423/
 
 <!---
